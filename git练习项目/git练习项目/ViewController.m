@@ -18,6 +18,7 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
     self.title = @"123";
+    self.view.alpha = 0.5;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
