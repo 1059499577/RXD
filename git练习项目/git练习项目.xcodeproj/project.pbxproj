@@ -15,6 +15,7 @@
 		286B91ED1E13AA5B007B5CAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 286B91EB1E13AA5B007B5CAE /* LaunchScreen.storyboard */; };
 		286B91F81E13AA5B007B5CAE /* git____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 286B91F71E13AA5B007B5CAE /* git____Tests.m */; };
 		286B92031E13AA5B007B5CAE /* git____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 286B92021E13AA5B007B5CAE /* git____UITests.m */; };
+		286B921B1E13BEA9007B5CAE /* Tool.m in Sources */ = {isa = PBXBuildFile; fileRef = 286B921A1E13BEA9007B5CAE /* Tool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		286B91FE1E13AA5B007B5CAE /* git练习项目UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git练习项目UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		286B92021E13AA5B007B5CAE /* git____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "git____UITests.m"; sourceTree = "<group>"; };
 		286B92041E13AA5B007B5CAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		286B92191E13BEA9007B5CAE /* Tool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tool.h; sourceTree = "<group>"; };
+		286B921A1E13BEA9007B5CAE /* Tool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				286B91EB1E13AA5B007B5CAE /* LaunchScreen.storyboard */,
 				286B91EE1E13AA5B007B5CAE /* Info.plist */,
 				286B91DD1E13AA5B007B5CAE /* Supporting Files */,
+				286B92191E13BEA9007B5CAE /* Tool.h */,
+				286B921A1E13BEA9007B5CAE /* Tool.m */,
 			);
 			path = "git练习项目";
 			sourceTree = "<group>";
@@ -276,6 +281,7 @@
 				286B91E51E13AA5B007B5CAE /* ViewController.m in Sources */,
 				286B91E21E13AA5B007B5CAE /* AppDelegate.m in Sources */,
 				286B91DF1E13AA5B007B5CAE /* main.m in Sources */,
+				286B921B1E13BEA9007B5CAE /* Tool.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
