@@ -20,7 +20,7 @@
     self.title = @"123";
     self.view.alpha = 0.7;
     NSLog(@"I am working hard");
-
+ NSLog(@"I am working hard at weekend");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
