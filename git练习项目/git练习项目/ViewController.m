@@ -21,6 +21,7 @@
     self.view.alpha = 0.7;
     NSLog(@"I am working hard");
  NSLog(@"I am working hard at weekend");
+    NSLog(@"我用命令行提交代码了");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
