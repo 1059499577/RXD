@@ -22,6 +22,7 @@
     NSLog(@"I am working hard");
  NSLog(@"I am working hard at weekend");
     NSLog(@"我用命令行提交代码了");
+    NSLog(@"桌面的RXD写了一行没用的文字");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
