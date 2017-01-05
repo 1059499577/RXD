@@ -24,6 +24,7 @@
     NSLog(@"我用命令行提交代码了");
     NSLog(@"桌面的RXD写了一行没用的文字---我真想把你删了");
     NSLog(@"我再hotFix上面写的");
+    NSLog(@"rxd1写了一句");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
